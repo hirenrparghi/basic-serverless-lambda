@@ -27,7 +27,7 @@ provider:
   stage: dev
   region: ap-south-1
 
-# you can add statements to tttthe Lambda function's IAM Role here
+# you can add statements to ttttthe Lambda function's IAM Role here
 #  iam:
 #    role:
 #      statements:
