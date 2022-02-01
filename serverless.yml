@@ -13,7 +13,7 @@
 
 service: project
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
+app: myapp
 #org: your-org-nameeee
 
 # You can pin your service to only deploy with a specific Serverless version
